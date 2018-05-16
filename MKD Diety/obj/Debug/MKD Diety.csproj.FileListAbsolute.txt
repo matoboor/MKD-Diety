@@ -1,0 +1,11 @@
+C:\Users\Ondrej Kuchár\Documents\SharpDevelop Projects\MKD Diety\MKD Diety\obj\Debug\MKD Diety.csprojResolveAssemblyReference.cache
+C:\Users\Ondrej Kuchár\Documents\SharpDevelop Projects\MKD Diety\MKD Diety\bin\Debug\MKD Diety.exe.config
+C:\Users\Ondrej Kuchár\Documents\SharpDevelop Projects\MKD Diety\MKD Diety\bin\Debug\MKD Diety.exe
+C:\Users\Ondrej Kuchár\Documents\SharpDevelop Projects\MKD Diety\MKD Diety\bin\Debug\MKD Diety.pdb
+C:\Users\Ondrej Kuchár\Documents\SharpDevelop Projects\MKD Diety\MKD Diety\obj\Debug\MKD Diety.exe
+C:\Users\Ondrej Kuchár\Documents\SharpDevelop Projects\MKD Diety\MKD Diety\obj\Debug\MKD Diety.pdb
+C:\Users\Ondrej Kuchár\Documents\SharpDevelop Projects\MKD Diety\MKD Diety\bin\Debug\Excel.dll
+C:\Users\Ondrej Kuchár\Documents\SharpDevelop Projects\MKD Diety\MKD Diety\bin\Debug\Excel.pdb
+C:\Users\Ondrej Kuchár\Documents\SharpDevelop Projects\MKD Diety\MKD Diety\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Ondrej Kuchár\Documents\SharpDevelop Projects\MKD Diety\MKD Diety\obj\Debug\MKD_Diety.Form1.resources
+C:\Users\Ondrej Kuchár\Documents\SharpDevelop Projects\MKD Diety\MKD Diety\obj\Debug\MKD Diety.csproj.GenerateResource.Cache
